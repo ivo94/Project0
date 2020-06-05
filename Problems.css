@@ -1,6 +1,9 @@
 body {
 	background-color: #ded5d5
 }
+@viewport {
+	width: device-width;
+}
 h1 {
 	text-align: center;
 	font-family: : fantasy;
