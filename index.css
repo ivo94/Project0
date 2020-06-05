@@ -8,7 +8,9 @@ h1 {
   padding: 20px;
   font-weight: bold;
   color: #000000; }
-
+@viewport {
+  width: device-width
+}
 @media (min-width: 901px) {
   /*if screen > 700px then display .normal-screen*/
   .normal-screen {
